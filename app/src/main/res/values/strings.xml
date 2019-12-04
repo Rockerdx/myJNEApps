@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">JNE Jemput</string>
+    <string name="hint_email">No.HP</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Nama Lengkap</string>
+    <string name="btn_login">MASUK</string>
+    <string name="btn_register">DAFTAR</string>
+    <string name="btn_link_to_register">Belum punya akun?Daftar sekarang!</string>
+    <string name="btn_link_to_login">Sudah punya akun?Login disini!</string>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "482681178431",
+    "firebase_url": "https://jneapp-1541773629890.firebaseio.com",
+    "project_id": "jneapp-1541773629890",
+    "storage_bucket": "jneapp-1541773629890.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482681178431:android:8ca71cffb5c576f5",
+        "android_client_info": {
+          "package_name": "online.jne.com.jneapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482681178431-2pqgmtc797j9ibehg8jndikacq3plrtm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "online.jne.com.jneapps",
+            "certificate_hash": "ac711b845411cc93fc3437c4c473a938c3d2780c"
+          }
+        },
+        {
+          "client_id": "482681178431-e3mdi4kgfr212qpt03rvfvsuracvv8ge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8elta2lBWuZDPJe8hGF3RI6voYg3YBeU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482681178431-e3mdi4kgfr212qpt03rvfvsuracvv8ge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
